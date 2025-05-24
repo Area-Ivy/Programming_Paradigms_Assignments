@@ -27,7 +27,7 @@ A collection of my programming paradigms course assignments.
 * [Assignment_4](Assignment_4)
 第四次作业
 
-* [Gomoku](gomoku)
+* [Gomoku](gomoku.cpp)
 五子棋AI对战程序
 
 ## 相关仓库
