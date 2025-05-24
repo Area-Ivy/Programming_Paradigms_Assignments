@@ -2,7 +2,7 @@
 
 ## 仓库名称
 
-Programming_Paradigms_Course_Assignments
+Programming_Paradigms_Assignments
 
 ## 仓库简介
 
